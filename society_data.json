@@ -1,0 +1,198 @@
+{
+  "Gulberg": {
+    "avg_price_per_marla_lakhs": 130,
+    "tier": "premium"
+  },
+  "DHA Phase 1-4": {
+    "avg_price_per_marla_lakhs": 100,
+    "tier": "premium"
+  },
+  "DHA Phase 5": {
+    "avg_price_per_marla_lakhs": 85,
+    "tier": "premium"
+  },
+  "DHA Phase 6": {
+    "avg_price_per_marla_lakhs": 75,
+    "tier": "premium"
+  },
+  "DHA Phase 7-8": {
+    "avg_price_per_marla_lakhs": 55,
+    "tier": "premium"
+  },
+  "DHA Phase 9 (Prism)": {
+    "avg_price_per_marla_lakhs": 40,
+    "tier": "premium"
+  },
+  "DHA Phase 10-11": {
+    "avg_price_per_marla_lakhs": 25,
+    "tier": "premium"
+  },
+  "DHA Phase 13": {
+    "avg_price_per_marla_lakhs": 18,
+    "tier": "mid"
+  },
+  "Cavalry Ground": {
+    "avg_price_per_marla_lakhs": 90,
+    "tier": "premium"
+  },
+  "Model Town": {
+    "avg_price_per_marla_lakhs": 70,
+    "tier": "premium"
+  },
+  "Garden Town": {
+    "avg_price_per_marla_lakhs": 60,
+    "tier": "upper_mid"
+  },
+  "Faisal Town": {
+    "avg_price_per_marla_lakhs": 50,
+    "tier": "upper_mid"
+  },
+  "Johar Town": {
+    "avg_price_per_marla_lakhs": 45,
+    "tier": "upper_mid"
+  },
+  "Askari 10": {
+    "avg_price_per_marla_lakhs": 48,
+    "tier": "upper_mid"
+  },
+  "Askari 11": {
+    "avg_price_per_marla_lakhs": 42,
+    "tier": "upper_mid"
+  },
+  "Valencia Housing": {
+    "avg_price_per_marla_lakhs": 38,
+    "tier": "upper_mid"
+  },
+  "Shadman": {
+    "avg_price_per_marla_lakhs": 65,
+    "tier": "upper_mid"
+  },
+  "Bahria Town (Sector A-D)": {
+    "avg_price_per_marla_lakhs": 35,
+    "tier": "mid"
+  },
+  "Bahria Town (Sector E-F)": {
+    "avg_price_per_marla_lakhs": 30,
+    "tier": "mid"
+  },
+  "Wapda Town": {
+    "avg_price_per_marla_lakhs": 32,
+    "tier": "mid"
+  },
+  "Iqbal Town": {
+    "avg_price_per_marla_lakhs": 35,
+    "tier": "mid"
+  },
+  "Muslim Town": {
+    "avg_price_per_marla_lakhs": 38,
+    "tier": "mid"
+  },
+  "Township": {
+    "avg_price_per_marla_lakhs": 28,
+    "tier": "mid"
+  },
+  "EME Society": {
+    "avg_price_per_marla_lakhs": 30,
+    "tier": "mid"
+  },
+  "Sui Gas Society": {
+    "avg_price_per_marla_lakhs": 34,
+    "tier": "mid"
+  },
+  "Lake City": {
+    "avg_price_per_marla_lakhs": 22,
+    "tier": "mid"
+  },
+  "State Life Housing": {
+    "avg_price_per_marla_lakhs": 26,
+    "tier": "mid"
+  },
+  "PCSIR Housing Society": {
+    "avg_price_per_marla_lakhs": 25,
+    "tier": "mid"
+  },
+  "Paragon City": {
+    "avg_price_per_marla_lakhs": 22,
+    "tier": "mid"
+  },
+  "Nasheman-e-Iqbal": {
+    "avg_price_per_marla_lakhs": 20,
+    "tier": "mid"
+  },
+  "Canal Garden": {
+    "avg_price_per_marla_lakhs": 18,
+    "tier": "affordable"
+  },
+  "Citi Housing": {
+    "avg_price_per_marla_lakhs": 20,
+    "tier": "affordable"
+  },
+  "Etihad Town": {
+    "avg_price_per_marla_lakhs": 14,
+    "tier": "affordable"
+  },
+  "Al-Kabir Town": {
+    "avg_price_per_marla_lakhs": 12,
+    "tier": "affordable"
+  },
+  "Khayaban-e-Amin": {
+    "avg_price_per_marla_lakhs": 16,
+    "tier": "affordable"
+  },
+  "NFC Society": {
+    "avg_price_per_marla_lakhs": 22,
+    "tier": "affordable"
+  },
+  "Green Town": {
+    "avg_price_per_marla_lakhs": 18,
+    "tier": "affordable"
+  },
+  "Sabzazar": {
+    "avg_price_per_marla_lakhs": 20,
+    "tier": "affordable"
+  },
+  "Samanabad": {
+    "avg_price_per_marla_lakhs": 22,
+    "tier": "affordable"
+  },
+  "Ichhra": {
+    "avg_price_per_marla_lakhs": 28,
+    "tier": "affordable"
+  },
+  "Muhafiz Town": {
+    "avg_price_per_marla_lakhs": 16,
+    "tier": "affordable"
+  },
+  "Tajpura": {
+    "avg_price_per_marla_lakhs": 15,
+    "tier": "affordable"
+  },
+  "Pak Arab Society": {
+    "avg_price_per_marla_lakhs": 14,
+    "tier": "affordable"
+  },
+  "Revenue Society": {
+    "avg_price_per_marla_lakhs": 16,
+    "tier": "affordable"
+  },
+  "Eden City": {
+    "avg_price_per_marla_lakhs": 14,
+    "tier": "affordable"
+  },
+  "Izmir Town": {
+    "avg_price_per_marla_lakhs": 12,
+    "tier": "affordable"
+  },
+  "Audit & Accounts Society": {
+    "avg_price_per_marla_lakhs": 16,
+    "tier": "affordable"
+  },
+  "Architects Engineers Society": {
+    "avg_price_per_marla_lakhs": 18,
+    "tier": "affordable"
+  },
+  "Punjab Govt Servants Society": {
+    "avg_price_per_marla_lakhs": 18,
+    "tier": "affordable"
+  }
+}
