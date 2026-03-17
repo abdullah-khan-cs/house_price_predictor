@@ -9,7 +9,6 @@ Run with: streamlit run app.py
 
 import json
 import os
-
 import joblib
 import numpy as np
 import streamlit as st
